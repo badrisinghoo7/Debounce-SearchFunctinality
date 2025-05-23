@@ -1,0 +1,11 @@
+.card-Div{
+    padding: 12px;
+  display: flex;
+  border: 2px dashed white;
+  gap:10px
+}
+.contact-card{
+  border: 1px dashed white;
+    padding: 12px;
+text-align: center;
+}
